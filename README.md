@@ -1,4 +1,4 @@
-<a href="LINK_TO_FRENCH_PAGE" style="
+<a href="https://github.com/CerberusX97" style="
     display: inline-block;
     padding: 10px 15px;
     font-size: 16px;
